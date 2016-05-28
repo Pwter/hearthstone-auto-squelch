@@ -1,0 +1,8 @@
+{
+  "name": "hearhstone-auto-squelcher",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "main": "auto-squelch.js",
+  "description": "Hearthstone auto squelcher"
+}
