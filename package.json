@@ -1,5 +1,5 @@
 {
-	"name": "hearhstone-auto-squelcher",
+	"name": "Squelchy",
 	"version": "0.0.1",
 	"dependencies": {},
 	"main": "auto-squelch.js",

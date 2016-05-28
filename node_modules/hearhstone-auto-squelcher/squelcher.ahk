@@ -17,6 +17,7 @@ IfWinExist, Hearthstone
         squelchy := heroposy - 60
 
         Click %heroposx%, %heroposy% right
+	Sleep, 0.3
         Click %squelchx%, %squelchy%
 
         MouseMove, mposx, mposy
